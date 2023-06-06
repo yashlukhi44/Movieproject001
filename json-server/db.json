@@ -1,0 +1,103 @@
+{
+  "movie": [
+    {
+      "title": "Bholaa",
+      "image": "Bholaa-2.jpg",
+      "type": [
+        "2D/",
+        "3D/",
+        "4D/",
+        "8D"
+      ],
+      "select1": "8D",
+      "language": [
+        "English/",
+        "Gujarati/",
+        "Hindi"
+      ],
+      "select2": "Romantic",
+      "duration": "3h 25m",
+      "certificate": "UA",
+      "date": "2023-02-23",
+      "rating": "8.9",
+      "schedule": [],
+      "role": "Rashmika mandana",
+      "about": "no",
+      "director": "depp",
+      "genre": [
+        "Action/",
+        "Drama/",
+        "Horror/",
+        "Romantic"
+      ],
+      "select": "Hindi/",
+      "id": 1
+    },
+    {
+      "title": "pathan",
+      "image": "pathan.jpg",
+      "type": [
+        "2D/",
+        "3D/",
+        "4D/",
+        "8D"
+      ],
+      "select1": "8D",
+      "language": [
+        "Hindi/",
+        "Gujarati",
+        "English/"
+      ],
+      "select2": "Romantic",
+      "duration": "3h 25m",
+      "certificate": "UA",
+      "date": "2023-04-19",
+      "rating": "8.3",
+      "schedule": "coming sooon",
+      "role": "Other",
+      "about": "no",
+      "director": "yash bhai",
+      "genre": [
+        "Action/",
+        "Drama/",
+        "Horror/",
+        "Romantic"
+      ],
+      "select": "English/",
+      "id": 2
+    },
+    {
+      "title": "gumrah",
+      "image": "gumrah.jpg",
+      "type": [
+        "2D/",
+        "3D/",
+        "4D/",
+        "8D"
+      ],
+      "select1": "8D",
+      "language": [
+        "Hindi/",
+        "Gujarati",
+        "English/"
+      ],
+      "select2": "Romantic",
+      "duration": "1h 32m",
+      "certificate": "UA",
+      "date": "2023-04-08",
+      "rating": "5.8",
+      "schedule": [],
+      "role": "Rashmika mandana",
+      "about": "ssasa",
+      "director": "sang",
+      "genre": [
+        "Action/",
+        "Drama/",
+        "Horror/",
+        "Romantic"
+      ],
+      "select": "English/",
+      "id": 3
+    }
+  ]
+}

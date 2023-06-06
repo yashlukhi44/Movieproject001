@@ -1,0 +1,132 @@
+.color{
+    background-color: gainsboro;
+    border-radius: 5px;
+}
+.img{
+    height: 400px;
+    width: 100%;
+    border-radius: 4px;
+}
+.text{
+    text-align: start;
+    margin-left: 8px;
+}
+.back-color{
+    background-color: orange;
+
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+.rowe{
+    display: flex;
+}
+.px{
+    padding:  0 10px;
+    color : white;
+}
+.mt-25{
+    margin-top: -2px;
+    text-align: start;
+}
+
+/* movie Details */
+
+.logo{
+    height: 150px;
+    width: 170px;
+}
+.align{
+    align-items : start;
+}
+.main{
+    display: flex;
+}
+.m-serch{
+    margin: 60px;
+}
+.images{
+    border-radius: 10px;
+    height: 400px;
+    width: 250px;
+}
+.back-img{
+    background-image: url(../assets/images/back-img-3.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+}
+.text-color{
+    color : white;
+}
+.back-c{
+    background-color: rgb(54, 41, 41);
+    height: 60px;
+    align-items: center;
+    display: flex;
+}
+.br{
+    margin-top: 0px;
+    text-align: center;
+    background-color: #dc3545 !important;
+    border-radius: 10px;
+}
+
+
+/* Book Details */
+
+.bg-color{
+    background-color: rgb(37, 27, 27);
+}
+.hw{
+    font-size: 15px;
+}
+/* .bg{
+    background-color: brown;
+    padding: 5px;
+    border-radius: 3px;
+} */
+
+.text-size{
+    font-size: 10px;
+    margin-bottom: 0;
+}
+.margin-button{
+    margin-left: 120px;
+}
+.mtop{
+    margin-bottom: 20px;
+}
+.hoveer:hover{
+    color: red;
+}
+
+
+/* book Ticket */
+
+
+.box-1 a{
+    padding: 9px 13px;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 4px;
+}
+.box-1 a:hover{
+    background-color: green;
+    transition: 0.2s all;
+}
+.blank a{
+    color: transparent;
+    border: none !important;
+    opacity: 0;
+}
+.blank a:hover{
+    color: transparent;
+    border: none !important;
+    background-color: white;
+    cursor: default;
+}
